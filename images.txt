@@ -1,4 +1,4 @@
 nginx
 iyuucn/iyuuplus-dev
 portainer/portainer
-embyserver-crack_arm32v7
+taksss/php-epg:latest
