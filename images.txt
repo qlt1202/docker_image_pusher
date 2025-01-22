@@ -1,4 +1,4 @@
 nginx
 iyuucn/iyuuplus-dev
 portainer/portainer
-zerotier/ZeroTierOne
+ZeroTierOne
