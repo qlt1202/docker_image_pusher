@@ -1,4 +1,4 @@
 nginx
 iyuucn/iyuuplus-dev
 portainer/portainer
-taksss/php-epg:latest
+zerotier/ZeroTierOne
